@@ -1,8 +1,8 @@
 # 💻ChoreChamps
-## 🧹Introduction
+## ✨Introduction
 This website was built using Bolt.ai for a hackathon. It provides 2 dashboards, one for parents and the other for child. It enables the parents an easy and fun way to track the chores assgned by them to their kids.
 
-## 🧹Features
+## ✨Features
 1. Category wise task assignment
 2. Age wise daily quiz
 7. Quiz streak maintainance
@@ -13,7 +13,7 @@ This website was built using Bolt.ai for a hackathon. It provides 2 dashboards, 
 7. Responsive application
 8. Can add multiple children
 
-## 🧹Application images
+## ✨Application images
 ### Home page
 <img width="1895" height="448" alt="Screenshot 2025-06-30 175038" src="https://github.com/user-attachments/assets/e6d6275a-0bfd-4582-80fe-d46170349373" />
 </br>
@@ -33,8 +33,8 @@ This website was built using Bolt.ai for a hackathon. It provides 2 dashboards, 
 ### Badges Collection section of Child Dashboard
 <img width="1583" height="618" alt="Screenshot 2025-06-30 210142" src="https://github.com/user-attachments/assets/cdec33bb-b20a-4c9d-b54a-953f71810327" />
 
-## 🧹Rewards and Badges detail
+## ✨Rewards and Badges detail
 <img width="583" height="490" alt="Screenshot 2025-06-30 210340" src="https://github.com/user-attachments/assets/560c8639-85d8-43bd-aefd-301a755cf11c" />
 
-## Website Link
+## ✨Website Link
 https://chorechampions.netlify.app/
