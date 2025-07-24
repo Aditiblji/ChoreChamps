@@ -38,3 +38,5 @@ This website was built using Bolt.ai for a hackathon. It provides 2 dashboards, 
 
 ## ✨Website Link
 https://chorechampions.netlify.app/
+<br>Link for more details: https://devpost.com/software/chorechamps
+
